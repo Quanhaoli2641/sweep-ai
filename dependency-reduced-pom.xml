@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.tom42</groupId>
+  <groupId>com.github.saferamen</groupId>
   <artifactId>sweep-ai</artifactId>
-  <name>minesweeper playing java ai.</name>
-  <version>0.0.1-SNAPSHOT</version>
-  <description>minesweeper playing java ai</description>
-  <url>https://github.com/Toms42/sweep-ai</url>
+  <name>Minesweeper AI</name>
+  <version>Beta</version>
+  <description>Minesweeper AI</description>
+  <url>https://github.com/saferamen</url>
   <inceptionYear>2016</inceptionYear>
   <build>
     <plugins>
